@@ -1,0 +1,40 @@
+skyguardtest
+skyguardtest
+skyguardtest
+skyguardtest
+skyguardtest
+skyguardtest
+skyguardtest
+skyguardtest
+skyguardtest
+skyguardtest
+skyguardtest
+skyguardtest
+skyguardtest
+skyguardtest
+skyguardtest
+skyguardtest
+skyguardtest
+skyguardtest
+skyguardtest
+skyguardtest
+skyguardtest
+skyguardtest
+skyguardtest
+skyguardtest
+
+
+src/skyguard/sgephook/Hook/ProcessMon/AdobeAddinManager/Adob                                                                                                                                                                                               eManager.cpp
+
+SGEPT_SYS_TRACE("ProcessCtrl", _T("TransferProcessAccessData2SDKAnalysis-----------------end"));
+
+SGEPT_SYS_ERROR("CAdobeManager", "putDataQueue -- empty break!!");
+
+bool CAdobeManager::isSupportedAdobeVersion(wstring wstrAppFullName)
+
+WeGit
+
+boost::shared_mutex
+
+ for (const auto& iter : sessions) {
+
