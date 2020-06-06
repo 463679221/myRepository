@@ -35,6 +35,6 @@ bool CAdobeManager::isSupportedAdobeVersion(wstring wstrAppFullName)
 WeGit
 
 boost::shared_mutex
-fdsfsdafsdfdsfdsafds
+fdsfsdafsdfdsfdsafd大水法打算:dsf 
  for (const auto& iter : sessions) {
 
